@@ -10,6 +10,8 @@ Installation:
 The script is ready to go out of the box, but there are some
 settings you could modify if felt needed.
 Settings are described below.
+Drop the file to ~/.config/hexchat/addons or load it in
+client via Window -> Plugins and Scripts menu.
 
 Dependencies:
 -------------
